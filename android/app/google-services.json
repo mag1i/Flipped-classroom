@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561266429863",
+    "project_id": "flippedclassroom-b5283",
+    "storage_bucket": "flippedclassroom-b5283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561266429863:android:5e0822d1f2f3d3a230f082",
+        "android_client_info": {
+          "package_name": "com.maggie.flipped_classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561266429863-p0jeko1cc20o7s5qkq7sfrgcrpu28616.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdXqKdyK2UNCtDPNQwe2YhSWUKk_Ozi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561266429863-p0jeko1cc20o7s5qkq7sfrgcrpu28616.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
